@@ -9,7 +9,7 @@ Developer passionate about simple solutions to complex problems, and with an ent
 ```kotlin
 object **SEU NOME** {
  val name = "Renan Sanches de Oliveira"
- val acknowledgements = "Desenvolver Software"
+ val role = "Desenvolvedor Back-End"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("JavaScript", "Node", "React", "NestJs", "TypeScript") 
