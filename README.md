@@ -7,11 +7,10 @@ Developer passionate about simple solutions to complex problems, and with an ent
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **SEU NOME** {
- val name = "Renan Sanches de Oliveira"
+object **Renan Oliveira** {
+ val passion = "Developer passionate about simple solutions to complex problems, and with an entrepreneurial spirit. 😃"
  val role = "Desenvolvedor Back-End"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("JavaScript", "Node", "React", "NestJs", "TypeScript") 
 
 }
