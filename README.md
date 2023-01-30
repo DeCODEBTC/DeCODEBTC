@@ -1,4 +1,4 @@
-### Oie devs 👋
+### Olá devs 👋
 
 Developer passionate about simple solutions to complex problems, and with an entrepreneurial spirit. 😃
 
